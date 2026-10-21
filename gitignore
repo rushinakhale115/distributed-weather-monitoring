@@ -1,0 +1,4 @@
+# runtime data and Python cache
+data/
+__pycache__/
+*.pyc
